@@ -17,11 +17,11 @@ pip install PyMySQL
 这里我们以英超赛程为例
 新建一个名为yingchao的表，如图四个字段
 
-![](D:\SOOT-Py\README.assets\mysql1.png)
+![image](https://raw.githubusercontent.com/Ice-BreakerStudio/SOOT-PY/master/README.assets/mysql1.png)
 
 并且设置主键，防止插入重复数据，如图
 
-![](D:\SOOT-Py\README.assets\mysql2.png)
+![image](https://raw.githubusercontent.com/Ice-BreakerStudio/SOOT-PY/master/README.assets/mysql2.png)
 
 并且在Python文件的21-25行处
 
